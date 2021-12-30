@@ -140,6 +140,7 @@ A curated resource for taxonomy research
 - \[WWW 2021\] [Enquire One’s Parent and Child Before Decision: Fully Exploit Hierarchical Structure for Self-Supervised Taxonomy Expansion](https://arxiv.org/pdf/2101.11268.pdf)
 	* Code: [https://github.com/sheryc/HEF](https://github.com/sheryc/HEF)
 - \[EMNLP 2021\] [TEMP: Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths](https://aclanthology.org/2021.emnlp-main.313)
+	* Code: [https://github.com/liu-zichen/TEMP](https://github.com/liu-zichen/TEMP)
 - \[EMNLP 2021\] [Low-resource Taxonomy Enrichment with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.217/)
 - \[EMNLP Findings 2021\] [HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning](https://arxiv.org/pdf/2109.10500.pdf)
 
