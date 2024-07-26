@@ -108,7 +108,7 @@ A curated resource for taxonomy research
 	* Code: [https://github.com/cchen23/ctp](https://github.com/cchen23/ctp)
 - \[SEM 2022\] [Distilling Hypernymy Relations from Language Models: On the Effectiveness of Zero-Shot Taxonomy Induction](https://aclanthology.org/2022.starsem-1.13.pdf)
 	* Code: [https://github.com/devanshrj/zero-shot-taxonomy](https://github.com/devanshrj/zero-shot-taxonomy)
-- \[Arxiv 2024\] [Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples](https://arxiv.org/pdf/2402.07386.pdf)
+- \[CIKM 2024\] [Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples](https://arxiv.org/pdf/2402.07386.pdf)
 	* Code: [https://github.com/QingkaiZeng/Chain-of-Layer](https://github.com/QingkaiZeng/Chain-of-Layer)
 
 
